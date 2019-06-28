@@ -1,0 +1,176 @@
+%mscS --> seminar
+%msc --> Thesis
+
+% برای گزارش سمینار mscS  و برای پایان‌نامه ,msc را انتخاب کنید
+\documentclass[oneside,openany,mscS]{SBU-Thesis}
+\usepackage{graphicx}
+\usepackage{subcaption}
+% برای وارد کردن بسته‌هایی که نیاز است قبل از bidi وارد شوند، آنها را در فایل confix.tex قرار دهید. سایر بسته‌های مورد نیاز را در اینجا می‌توانید وارد کنید:
+
+\begin{document}
+	%عنوان پایان‌نامه
+	\title{بررسی و ارزیابی راهکارهای رندرینگ در واقعیت افزوده}
+	
+	%رشته
+	\subject{مهندسی کامپیوتر}
+	
+	%گرایش
+	\field{نرم‌افزار}
+	
+	%نام
+	\name{محسن}
+	
+	%نام خانوادگی
+	\surname{نوازنی}
+	
+	%استاد راهنما
+	\firstsupervisor{دکتر مجتبی وحیدی اصل}
+	
+	%استاد راهنمای دوم (در صورت وجود، در غیر این صورت این خط را حذف کنید)
+%	\secondsupervisor{دکتر محمود نشاطی}
+
+	%استاد مشاور (در صورت وجود، در غیر این صورت این خط را حذف کنید)
+%	\firstadvisor{دکتر محمود نشاطی}
+
+%تاریخ انجام پایان‌نامه
+	\thesisdate{بهار ۱۳۹8}
+	
+	%نام دانشکده
+	\faculty{دانشکده مهندسی و علوم کامپیوتر}
+	
+	%نام دانشگاه
+	\university{دانشگاه شهید بهشتی}
+	
+	%اسامی برای صفحات داوران: در هر مورد، در صورت عدم وجود، کل خط را حذف کنید
+	\davaranSupervisor{نام و نام‌خانوادگی}
+	\davaranSecondSupervisor{نام و نام‌خانوادگی}
+	\davaranAdvisor{نام و نام‌خانوادگی}
+	\davaranInternal{نام و نام‌خانوادگی}
+	\davaranExternal{نام و نام‌خانوادگی}
+	\davaranAssignee{نام و نام‌خانوادگی}
+%	\davaranDate{۱۳۹۷/۱۱/۷} % چنانچه این خط را حذف کنید با فضای خالی جایگزین می‌شود
+
+	%مقادیر انگلیسی برای صفحه آخر
+	\latinuniversity{Shahid Beheshti University}
+	\latinfaculty{Faculty of Computer Science \& Engineering}
+	\latintitle{Review and evaluate rendering strategies in Augmented Reality}
+	\latinname{Mohsen}
+	\latinsurname{Navazani}
+	\latinthesisdate{2019}
+	\firstlatinsupervisor{Dr. Mojtaba Vahidi Asl}
+	%	\secondlatinsupervisor{Dr. Mahmood Neshati}
+	%	\firstlatinadvisor{Dr. Mahmood Neshati}
+	% چکیده به فارسی
+	\fa-abstract{واقعیت افزوده فنّاوری است که با مخلوط کردن واقعیت و مجازی، توجه زیادی از جامعه علمی را به خود جلب کرده است و بهترین راه برای انتقال اطلاعات مربوط به دنیای واقعی به افراد است. رایانه‌ها گرافیک‌هایی را تولید کرده و بر روی دنیای واقعی ثبت می‌کنند و به این شکل به نظر می‌رسد که این گرافیک‌ها به دنیای  واقعی افزوده‌شده‌اند، برای همین به این فنّاوری واقعیت افزوده گفته می‌شود.
+		ما شاهد رشد فنّاوری‌های جدید مانند هوش مصنوعی و همچنین گستردگی محصولات موجود در بازار فنّاوری هستیم، باوجود گذشتن چند دهه از به وجود آمدن واقعیت افزوده، این فنّاوری طرفداران زیادی چه در حوزه اقتصادی و چه در حوزه علمی به خود اختصاص داده است.
+		مطالعات زیادی بر روی این فنّاوری انجام‌شده است ولی بااین‌وجود، دارای مسائل حل‌نشده و جای کار بسیاری است. درنتیجه می‌تواند حوزه خوبی برای تحقیق برای علاقه‌مندان باشد.
+		در این تحقیق سعی بر آن شده است که پس از معرفی این فنّاوری و کاربردهای آن، به بیان سازوکارهای آن و مقایسه آن‌ها بپردازیم.	}
+	%کلمات کلیدی:
+	\keywords{واقعیت افزوده، مفاهیم، کاربرد، رندرینگ}
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	
+\firstPage %ساخت صفحه اول پایان‌نامه 
+\davaranPage % ساخت صفحه امضا داوران
+
+%%%%%%ساخت صفحه تقدیر و تشکر%%%%%%%%%%
+{
+	\newpage
+	\thispagestyle{plain}
+	\noindent
+	\large{\textbf{با سپاس و قدردانی از}}
+	
+	\noindent
+	پدران و مادرانی که خود را فدای تربیت فرزاندان خود کردند و\\
+	اساتید و معلمانی که در تمام دوران زندگی، راهنمای جانسوز ما بودند.
+	
+	
+	\vspace{14cm}	
+	
+	
+	\pagebreak
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\rightsPage % ساخت صفحه حقوق پایان‌نامه
+\copyRightPage % ساخت صفحه تعهدنامه
+
+%%%%%%ساخت صفحه تقدیم به %%%%%%%%%%
+{
+	\newpage
+	\thispagestyle{plain}
+	\large{\textbf{تقدیم به}}
+	
+	\begin{center}
+		رهجويان علم و فناوری و دوست‌داران علم و دانش
+	\end{center}
+	
+	\vspace{14cm}	
+	
+	
+	\pagebreak
+}
+%%%%%%%%%%%%%%%%%%%5
+\tableofcontents % فهرست مطالب
+\listoffigures \newpage % فهرست تصاویر
+\listoftables \newpage % فهرست جداول
+
+	
+\abstractPage % ساخت صفحه چکیده
+		
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\include{body}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+
+% مراجع
+\newpage
+%\onehalfspacing
+\bibliographystyle{ieeetr-fa}%{chicago-fa}%{plainnat-fa}%
+\bibliography{thesis}
+
+
+%%%%%%%%%% نمونه‌ی واژه‌نلمه تک ستونه ٪٪٪٪٪٪٪٪٪٪
+\baselineskip=.6cm
+
+\chapter*{واژه‌نامه  انگلیسی به  فارسی}\markboth{واژه‌نامه  انگلیسی به  فارسی}{واژه‌نامه  انگلیسی به  فارسی}
+%\thispagestyle{fancy}
+\addcontentsline{toc}{chapter}{واژه‌نامه  انگلیسی به  فارسی}
+\noindent
+\englishgloss{Word}{کلمه}
+\englishgloss{Word 2}{کلمه ۲}
+\englishgloss{Word 3}{کلمه ۳}
+
+
+\chapter*{واژه‌نامه فارسی به انگلیسی}\markboth{واژه‌نامه فارسی به انگلیسی}{واژه‌نامه فارسی به انگلیسی}
+\addcontentsline{toc}{chapter}{واژه‌نامه فارسی به انگلیسی}
+%\thispagestyle{fancy}
+\noindent
+\persiangloss{کلمه ۱}{word 1}
+\persiangloss{کلمه ۲}{word 2}
+\persiangloss{کلمه ۳}{word 3}
+
+\baselineskip=1cm
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% چکیده به انگلیسی
+\en-abstract
+{
+	This is Abstract in English.
+}
+
+% کلمات کلیدی انگلیسی 
+\latinkeywords
+{
+	Word1, Word2, Word3
+}
+
+\latinAbstractPage % ساخت صفحه چکیده به انگلیسی
+\latinFirstPage % ساخت صفحه آخر
+
+	
+\end{document}

@@ -1,0 +1,31 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: body.aux
+The style file: ieeetr-fa.bst
+Database file #1: thesis.bib
+Repeated entry---line 124 of file thesis.bib
+ : @article{Rekimoto
+ :                  ,
+I'm skipping whatever remains of this entry
+-- ieeetr-fa.bst version 0.6 (2011/07/01) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Name 1 in "Nassir Navab, Marco Feuerstein, and Christoph Bichlmeier" has a comma at the end for entry nasir
+while executing---line 1249 of file ieeetr-fa.bst
+Too many commas in name 1 of "Kangsoo Kim, Mark Billinghurst, Gerd Bruder, Henry Been-Lirn Duh, Gregory F. Welch" for entry ismar
+while executing---line 1249 of file ieeetr-fa.bst
+Too many commas in name 1 of "Kangsoo Kim, Mark Billinghurst, Gerd Bruder, Henry Been-Lirn Duh, Gregory F. Welch" for entry ismar
+while executing---line 1249 of file ieeetr-fa.bst
+Name 1 in "Doug A Bowman, Ernst Kruijff, Joseph J. LaViola Jr, and Ivan Poupyrev" has a comma at the end for entry Bowman
+while executing---line 1249 of file ieeetr-fa.bst
+Name 1 in "Hirokazu Kato, Mark Billinghurst, Ivan Poupyrev, Kenji Imamoto, and Keihachiro Tachibana" has a comma at the end for entry Kato
+while executing---line 1249 of file ieeetr-fa.bst
+Too many commas in name 1 of "Hirokazu Kato, Mark Billinghurst, Ivan Poupyrev, Kenji Imamoto, and Keihachiro Tachibana" for entry Kato
+while executing---line 1249 of file ieeetr-fa.bst
+Name 1 in "Jae Yeol Lee, Gue Won Rhee, and Dong Woo Seo" has a comma at the end for entry Lee
+while executing---line 1249 of file ieeetr-fa.bst
+Name 1 in "Minkyung Lee, Mark Billinghurst, Woonhyuk Baek, Richard Green, and Woontack Woo" has a comma at the end for entry Lee2
+while executing---line 1249 of file ieeetr-fa.bst
+Too many commas in name 1 of "Minkyung Lee, Mark Billinghurst, Woonhyuk Baek, Richard Green, and Woontack Woo" for entry Lee2
+while executing---line 1249 of file ieeetr-fa.bst
+
+Done.
+(There were 10 error messages)

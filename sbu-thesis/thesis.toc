@@ -1,0 +1,22 @@
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}واقعیت افزوده چیست؟}{2}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}تاریخچه}{3}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}انگیزه پژوهش}{5}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}بیان ساختار فصل‌های بعدی}{9}{section.1.4}% 
+\contentsline {chapter}{\numberline {2}ادبیات تحقیق}{10}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}معرفی}{11}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}انواع رابط کاربری}{11}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}واقعیت ترکیبی}{14}{subsection.2.1.2}% 
+\contentsline {section}{\numberline {2.2}انواع دستگاه‌های واقعیت افزوده}{15}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1} ۱- نمایشگرهایی که بر روی سر نصب می‌شوند\LTRfootnote {head mounted displays (HMD)} }{15}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}نمایشگرهای دستی\LTRfootnote {Handheld displays} :}{16}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}نمایشگرهای فضایی\LTRfootnote {spatial displays}}{17}{subsection.2.2.3}% 
+\contentsline {section}{\numberline {2.3}ورودی و تعامل}{17}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}مرورگرهای اطلاعات\LTRfootnote {Information Browsers}: }{18}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}رابط کاربر ۳ بعدی\LTRfootnote {3D User Interfaces}:}{19}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.3}رابط کاربر قابل‌ لمس\LTRfootnote {Tangible User Interfaces} :}{20}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.4}رابط کاربر طبیعی \LTRfootnote {Natural User Interfaces} :}{21}{subsection.2.3.4}% 
+\contentsline {subsection}{\numberline {2.3.5}رابط چند منظوره\LTRfootnote {Multimodal Interfaces} :}{22}{subsection.2.3.5}% 
+\contentsline {chapter}{مراجع}{23}{figure.caption.18}% 
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{25}{chapter*.20}% 
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{26}{chapter*.21}% 
