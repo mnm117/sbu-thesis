@@ -166,4 +166,57 @@ W.~B. R.~G. Minkyung~Lee, Mark~Billinghurst and W.~Woo, ``A usability study of
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Billinghurst}
+A.~C. M.~Billinghurst and G.~Lee, ``A survey of augmented reality,'' {\em
+  Found. Trends® Human–Computer Interact},  vol.8,  no.2-3,  p.73–272,
+  2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Tian}
+D.~X. H.~Y. Y.~Tian, Y.~Long and J.~Zhang, ``Handling occlusions in augmented
+  reality based on 3d reconstruction method,'' {\em Neurocomputing},  vol.156,
+  p.96–104, 2015.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Kiyokawa}
+Y.~K. K.~Kiyokawa and H.~Ohno, ``An optical see-through display for mutual
+  occlusion with a real-time stereovision system,'' {\em Comput. Graph},
+  vol.25,  no.5,  p.765–779, 2001.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Raskar}
+K.-L.~L. R.~Raskar, G.~Welch and D.~Bandyopadhyay, ``Shader lamps: Animating
+  real objects with image-based illumination,'' {\em S. J. Gortler and K.
+  Myszkowski, Eds. Vienna: Springer Vienna},  p.89–102, 2001.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Mistry}
+P.~Mistry and P.~Maes, ``Sixthsense: A wearable gestural interface,'' {\em in
+  ACM SIGGRAPH ASIA 2009 Sketches on - SIGGRAPH ASIA},  p.1, 2009.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{krum2012augmented}
+D.~M. Krum, E.~A. Suma, and M.~Bolas, ``Augmented reality using personal
+  projection and retroreflection,'' {\em Personal and Ubiquitous Computing},
+  vol.16,  no.1,  pp.17--26, 2012.
+
+\end{LTRbibitems}
+
 \end{thebibliography}

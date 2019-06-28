@@ -17,6 +17,11 @@
 \contentsline {subsection}{\numberline {2.3.3}رابط کاربر قابل‌ لمس\LTRfootnote {Tangible User Interfaces} :}{20}{subsection.2.3.3}% 
 \contentsline {subsection}{\numberline {2.3.4}رابط کاربر طبیعی \LTRfootnote {Natural User Interfaces} :}{21}{subsection.2.3.4}% 
 \contentsline {subsection}{\numberline {2.3.5}رابط چند منظوره\LTRfootnote {Multimodal Interfaces} :}{22}{subsection.2.3.5}% 
-\contentsline {chapter}{مراجع}{23}{figure.caption.18}% 
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{25}{chapter*.20}% 
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{26}{chapter*.21}% 
+\contentsline {section}{\numberline {2.4}نمایش}{22}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}فناوری نمایش}{24}{subsection.2.4.1}% 
+\contentsline {subsubsection}{ویدیوئی}{24}{subsubsection*.20}% 
+\contentsline {subsubsection}{نمایش دید نوری واقعیت افزوده}{26}{subsubsection*.22}% 
+\contentsline {subsubsection}{نمایش مبتنی بر نورپردازی}{28}{subsubsection*.24}% 
+\contentsline {chapter}{مراجع}{30}{figure.caption.25}% 
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{32}{chapter*.27}% 
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{33}{chapter*.28}% 

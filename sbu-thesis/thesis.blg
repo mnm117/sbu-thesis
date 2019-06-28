@@ -26,6 +26,16 @@ Name 1 in "Minkyung Lee, Mark Billinghurst, Woonhyuk Baek, Richard Green, and Wo
 while executing---line 1249 of file ieeetr-fa.bst
 Too many commas in name 1 of "Minkyung Lee, Mark Billinghurst, Woonhyuk Baek, Richard Green, and Woontack Woo" for entry Lee2
 while executing---line 1249 of file ieeetr-fa.bst
+Name 1 in "M. Billinghurst, A. Clark, and G. Lee" has a comma at the end for entry Billinghurst
+while executing---line 1249 of file ieeetr-fa.bst
+Name 1 in "Y. Tian, Y. Long, D. Xia, H. Yao, and J. Zhang" has a comma at the end for entry Tian
+while executing---line 1249 of file ieeetr-fa.bst
+Too many commas in name 1 of "Y. Tian, Y. Long, D. Xia, H. Yao, and J. Zhang" for entry Tian
+while executing---line 1249 of file ieeetr-fa.bst
+Name 1 in "K. Kiyokawa, Y. Kurata, and H. Ohno" has a comma at the end for entry Kiyokawa
+while executing---line 1249 of file ieeetr-fa.bst
+Name 1 in "R. Raskar, G. Welch, K.-L. Low, and D. Bandyopadhyay" has a comma at the end for entry Raskar
+while executing---line 1249 of file ieeetr-fa.bst
 
 Done.
-(There were 10 error messages)
+(There were 15 error messages)
