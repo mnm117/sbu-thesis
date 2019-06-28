@@ -219,4 +219,40 @@ D.~M. Krum, E.~A. Suma, and M.~Bolas, ``Augmented reality using personal
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{siltanen2012theory}
+S.~Siltanen.
+\newblock {\em Theory and applications of marker-based augmented reality}.
+\newblock VTT, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{caudell1992augmented}
+T.~P. Caudell and D.~W. Mizell, ``Augmented reality: An application of heads-up
+  display technology to manual manufacturing processes,''  in {\em Proceedings
+  of the twenty-fifth Hawaii international conference on system sciences},
+  vol.2,  pp.659--669, IEEE, 1992.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{feiner1993knowledge}
+S.~Feiner, B.~Macintyre, and D.~Seligmann, ``Knowledge-based augmented
+  reality,'' {\em Communications of the ACM},  vol.36,  no.7,  pp.53--62, 1993.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{bajura1992merging}
+M.~Bajura, H.~Fuchs, and R.~Ohbuchi, ``Merging virtual objects with the real
+  world: Seeing ultrasound imagery within the patient,'' {\em ACM SIGGRAPH
+  Computer Graphics},  vol.26,  no.2,  pp.203--210, 1992.
+
+\end{LTRbibitems}
+
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.6.24)  28 JUN 2019 19:39
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.6.24)  29 JUN 2019 04:11
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1207,25 +1207,37 @@ LaTeX Warning: Reference `footdir@16' on page هشت undefined on input line 19.
 
 LaTeX Warning: Reference `footdir@17' on page هشت undefined on input line 19.
 
-)
+
+LaTeX Warning: Reference `footdir@18' on page هشت undefined on input line 34.
+
+[8])
 \tf@toc=\write3
 \openout3 = `thesis.toc'.
 
- [8] (thesis.lof [9
+ [9] (thesis.lof [10
 
 
-])
+]
+
+LaTeX Warning: Reference `footdir@19' on page یازده undefined on input line 25.
+
+
+
+LaTeX Warning: Reference `footdir@20' on page یازده undefined on input line 25.
+
+
+)
 \tf@lof=\write4
 \openout4 = `thesis.lof'.
 
- [10] (thesis.lot)
+ [11] (thesis.lot)
 \tf@lot=\write5
 \openout5 = `thesis.lot'.
 
- [11
+ [12
 
 
-] [12
+] [13
 
 ]
 \openout2 = `body.aux'.
@@ -1387,7 +1399,72 @@ File: image/opticalview.png Graphic file (type bmp)
  [26] [27]
 File: image/tajmahal.png Graphic file (type bmp)
 <image/tajmahal.png>
-) [28] [29] (thesis.bbl
+ [28]
+Overfull \hbox (11.02225pt too wide) in paragraph at lines 417--420
+[]\TU/IRNazanin(0)/m/n/12 با پیشرفت فنّاوری درزمینه دستگاه‌های قابل‌حمل، قدرت پ
+ردازشی دستگاه‌های قابل‌حمل برای پردازش تصویرسازی[]
+ []
+
+File: image/tango.jpg Graphic file (type bmp)
+<image/tango.jpg>
+[29]
+Overfull \hbox (1.83127pt too wide) in paragraph at lines 428--429
+[]\TU/IRNazanin(0)/m/n/12 عمومی و کاربردهایی که چندین کاربر دارند مناسب هستند. 
+از نمونه‌های این نوع نمایشگر می‌توان به نمایشگرهای[]
+ []
+
+[30]
+فصل 3.
+[31
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 434--447
+[][]
+ []
+
+File: image/rct.png Graphic file (type bmp)
+<image/rct.png>
+[32] [33] [34]
+
+LaTeX Warning: Reference `footdir@203' on page 35 undefined on input line 475.
+
+
+LaTeX Warning: Reference `footdir@204' on page 35 undefined on input line 475.
+
+
+LaTeX Warning: Reference `footdir@206' on page 35 undefined on input line 475.
+
+
+LaTeX Warning: Reference `footdir@207' on page 35 undefined on input line 479.
+
+
+LaTeX Warning: Reference `footdir@208' on page 35 undefined on input line 479.
+
+File: image/magnetic.png Graphic file (type bmp)
+<image/magnetic.png>
+
+LaTeX Warning: Reference `footdir@209' on page 35 undefined on input line 485.
+
+
+LaTeX Warning: Reference `footdir@210' on page 35 undefined on input line 485.
+
+
+LaTeX Warning: Reference `footdir@211' on page 35 undefined on input line 485.
+
+
+LaTeX Warning: Reference `footdir@212' on page 35 undefined on input line 485.
+
+
+Overfull \hbox (3.87297pt too wide) in paragraph at lines 475--489
+[]\TU/IRNazanin(0)/m/n/12 شکل[][][]۳.‏۲[][][] نشان‌دهنده وضوح در ردیابی مغناطیس
+ی دستگاه‌های Polhemus است که تأثیر فاصله بین دریافت‌کننده[]
+ []
+
+)
+
+LaTeX Warning: Reference `footdir@213' on page 35 undefined on input line 125.
+
+[35] [36] (thesis.bbl
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/it' will be
 (Font)              scaled to size 13.79993pt on input line 10.
 
@@ -1396,24 +1473,24 @@ Underfull \hbox (badness 1968) in paragraph at lines 9--12
  virtual mirror new interaction[]
  []
 
-[30
+[37
 
 
-]) [31]
+] [38]) [39]
 Underfull \hbox (badness 10000) in paragraph at lines 143--147
 [][]
  []
 
-[32
+[40
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 152--156
 [][]
  []
 
-[33
+[41
 
-] [34
+] [42
 
 ]
 File: logo.pdf Graphic file (type pdf)
@@ -1433,7 +1510,7 @@ LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/n' will be
 (Font)              scaled to size 19.87189pt on input line 174.
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/bx/n' will be
 (Font)              scaled to size 16.55989pt on input line 174.
-[35]
+[43]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
  (thesis.aux (body.aux))
@@ -1450,12 +1527,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  )
 (\end occurred when \ifx on line 102 was incomplete) 
 Here is how much of TeX's memory you used:
- 25612 strings out of 427669
- 476827 string characters out of 3149215
+ 25720 strings out of 427669
+ 478284 string characters out of 3149215
  625568 words of memory out of 3000000
- 29308 multiletter control sequences out of 15000+200000
+ 29413 multiletter control sequences out of 15000+200000
  542511 words of font info for 110 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 54i,10n,79p,1316b,581s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,11n,79p,1316b,581s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.pdf (47 pages).
+Output written on thesis.pdf (56 pages).
