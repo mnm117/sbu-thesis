@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.6.24)  29 JUN 2019 04:11
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.6.24)  30 JUN 2019 03:15
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1011,6 +1011,9 @@ LaTeX Warning: Label `fig:Bowman' multiply defined.
 
 LaTeX Warning: Label `fig:Bowman' multiply defined.
 
+
+LaTeX Warning: Label `fig:ptam' multiply defined.
+
 ))
 \openout1 = `thesis.aux'.
 
@@ -1145,72 +1148,103 @@ LaTeX Font Info:    Font shape `TU/IRNazanin(0)/bx/n' will be
 (Font)              scaled to size 28.61185pt on input line 115.
  (thesis.toc
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 9.19995pt on input line 11.
+(Font)              scaled to size 9.19995pt on input line 14.
 
 
-LaTeX Warning: Reference `footdir@1' on page هفت undefined on input line 11.
+LaTeX Warning: Reference `footdir@1' on page هفت undefined on input line 14.
 
 
-LaTeX Warning: Reference `footdir@2' on page هفت undefined on input line 11.
+LaTeX Warning: Reference `footdir@2' on page هفت undefined on input line 14.
 
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 11.49994pt on input line 11.
+(Font)              scaled to size 11.49994pt on input line 14.
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/n' will be
-(Font)              scaled to size 11.49994pt on input line 11.
+(Font)              scaled to size 11.49994pt on input line 14.
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/n' will be
-(Font)              scaled to size 8.04996pt on input line 11.
+(Font)              scaled to size 8.04996pt on input line 14.
 
-LaTeX Warning: Reference `footdir@3' on page هفت undefined on input line 12.
-
-
-LaTeX Warning: Reference `footdir@4' on page هفت undefined on input line 12.
+LaTeX Warning: Reference `footdir@3' on page هفت undefined on input line 15.
 
 
-LaTeX Warning: Reference `footdir@5' on page هفت undefined on input line 13.
+LaTeX Warning: Reference `footdir@4' on page هفت undefined on input line 15.
 
 
-LaTeX Warning: Reference `footdir@6' on page هفت undefined on input line 13.
+LaTeX Warning: Reference `footdir@5' on page هفت undefined on input line 16.
 
 
-LaTeX Warning: Reference `footdir@7' on page هفت undefined on input line 15.
+LaTeX Warning: Reference `footdir@6' on page هفت undefined on input line 16.
 
 
-LaTeX Warning: Reference `footdir@8' on page هفت undefined on input line 15.
-
-
-LaTeX Warning: Reference `footdir@9' on page هفت undefined on input line 16.
+LaTeX Warning: Reference `footdir@7' on page هفت undefined on input line 17.
 
 [7
 
 ]
 
-LaTeX Warning: Reference `footdir@10' on page هشت undefined on input line 16.
+LaTeX Warning: Reference `footdir@8' on page هشت undefined on input line 18.
 
 
-LaTeX Warning: Reference `footdir@11' on page هشت undefined on input line 16.
+LaTeX Warning: Reference `footdir@9' on page هشت undefined on input line 18.
 
 
-LaTeX Warning: Reference `footdir@12' on page هشت undefined on input line 17.
+LaTeX Warning: Reference `footdir@10' on page هشت undefined on input line 19.
 
 
-LaTeX Warning: Reference `footdir@13' on page هشت undefined on input line 17.
+LaTeX Warning: Reference `footdir@11' on page هشت undefined on input line 19.
 
 
-LaTeX Warning: Reference `footdir@14' on page هشت undefined on input line 18.
+LaTeX Warning: Reference `footdir@12' on page هشت undefined on input line 20.
 
 
-LaTeX Warning: Reference `footdir@15' on page هشت undefined on input line 18.
+LaTeX Warning: Reference `footdir@13' on page هشت undefined on input line 20.
 
 
-LaTeX Warning: Reference `footdir@16' on page هشت undefined on input line 19.
+LaTeX Warning: Reference `footdir@14' on page هشت undefined on input line 21.
 
 
-LaTeX Warning: Reference `footdir@17' on page هشت undefined on input line 19.
+LaTeX Warning: Reference `footdir@15' on page هشت undefined on input line 21.
 
 
-LaTeX Warning: Reference `footdir@18' on page هشت undefined on input line 34.
+LaTeX Warning: Reference `footdir@16' on page هشت undefined on input line 22.
 
-[8])
+
+LaTeX Warning: Reference `footdir@17' on page هشت undefined on input line 22.
+
+
+LaTeX Warning: Reference `footdir@18' on page هشت undefined on input line 35.
+
+
+LaTeX Warning: Reference `footdir@19' on page هشت undefined on input line 35.
+
+
+LaTeX Warning: Reference `footdir@20' on page هشت undefined on input line 36.
+
+[8]
+
+LaTeX Warning: Reference `footdir@21' on page نه undefined on input line 36.
+
+
+LaTeX Warning: Reference `footdir@22' on page نه undefined on input line 36.
+
+
+LaTeX Warning: Reference `footdir@23' on page نه undefined on input line 37.
+
+
+LaTeX Warning: Reference `footdir@24' on page نه undefined on input line 37.
+
+
+LaTeX Warning: Reference `footdir@25' on page نه undefined on input line 38.
+
+
+LaTeX Warning: Reference `footdir@26' on page نه undefined on input line 38.
+
+
+LaTeX Warning: Reference `footdir@27' on page نه undefined on input line 39.
+
+
+LaTeX Warning: Reference `footdir@28' on page نه undefined on input line 39.
+
+)
 \tf@toc=\write3
 \openout3 = `thesis.toc'.
 
@@ -1219,11 +1253,19 @@ LaTeX Warning: Reference `footdir@18' on page هشت undefined on input line 34.
 
 ]
 
-LaTeX Warning: Reference `footdir@19' on page یازده undefined on input line 25.
+LaTeX Warning: Reference `footdir@30' on page یازده undefined on input line 25.
 
 
 
-LaTeX Warning: Reference `footdir@20' on page یازده undefined on input line 25.
+LaTeX Warning: Reference `footdir@31' on page یازده undefined on input line 25.
+
+
+
+LaTeX Warning: Reference `footdir@32' on page یازده undefined on input line 28.
+
+
+
+LaTeX Warning: Reference `footdir@33' on page یازده undefined on input line 28.
 
 
 )
@@ -1248,10 +1290,6 @@ LaTeX Warning: Reference `footdir@20' on page یازده undefined on input line
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3--11
-[][]
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 14.49998pt.
@@ -1259,38 +1297,43 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 [2]
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
+[][]
+ []
+
+[3]
 File: image/AR_in_medicine.png Graphic file (type bmp)
 <image/AR_in_medicine.png>
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/bx/n' will be
-(Font)              scaled to size 11.49994pt on input line 19.
+(Font)              scaled to size 11.49994pt on input line 41.
 File: image/ARQuake_outdoor_AR_game.png Graphic file (type bmp)
 <image/ARQuake_outdoor_AR_game.png>
 File: image/AR_architecture_by_Re+Public.png Graphic file (type bmp)
 <image/AR_architecture_by_Re+Public.png>
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/bx/n' will be
-(Font)              scaled to size 12.59242pt on input line 41.
+(Font)              scaled to size 12.59242pt on input line 63.
 File: image/Sutherland’s2.png Graphic file (type bmp)
 <image/Sutherland’s2.png>
 File: image/Sutherland’s1.png Graphic file (type bmp)
 <image/Sutherland’s1.png>
- [3]
+ [4]
 File: image/airforce1.png Graphic file (type bmp)
 <image/airforce1.png>
 File: image/airforce2.png Graphic file (type bmp)
 <image/airforce2.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
 [][]
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
 [][][][][]\TU/IRNazanin(1)/m/n/10 https://www.gartner.com/smarterwithgartner/5-
 trends-emerge-in-gartner-hype-cycle-for-emerging-[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--97
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
 [][]
  []
 
@@ -1298,7 +1341,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--97
 File: image/gartner.png Graphic file (type bmp)
 <image/gartner.png>
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 8.04996pt on input line 124.
+(Font)              scaled to size 8.04996pt on input line 146.
 File: image/ismar1.png Graphic file (type bmp)
 <image/ismar1.png>
 File: image/ismar2.png Graphic file (type bmp)
@@ -1307,164 +1350,192 @@ File: image/ismar3.png Graphic file (type bmp)
 <image/ismar3.png>
 File: image/ismar4.png Graphic file (type bmp)
 <image/ismar4.png>
- [6] [7] [8] [9]
+ [6] [7] [8] [9] [10]
 فصل 2.
-[10
+[11
 
 ]
 File: image/style.jpg Graphic file (type bmp)
 <image/style.jpg>
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/bx/n' will be
-(Font)              scaled to size 13.79993pt on input line 199.
+(Font)              scaled to size 13.79993pt on input line 227.
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--215
+Underfull \hbox (badness 10000) in paragraph at lines 204--243
 [][]
  []
 
-[11] [12] [13]
+[12] [13] [14]
 File: image/mixedreality.png Graphic file (type bmp)
 <image/mixedreality.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--233
+Underfull \hbox (badness 10000) in paragraph at lines 257--261
 [][]
  []
 
-[14]
+[15]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 233.
+(hyperref)                removing `\@ifnextchar' on input line 261.
 
-[15]
+[16]
 File: image/hmd.png Graphic file (type bmp)
 <image/hmd.png>
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 247.
+(hyperref)                removing `\@ifnextchar' on input line 275.
 
 File: image/mobile.png Graphic file (type bmp)
 <image/mobile.png>
+[17]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 255.
+(hyperref)                removing `\@ifnextchar' on input line 283.
 
 File: image/sar.png Graphic file (type bmp)
 <image/sar.png>
-[16]
+[18]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 268.
+(hyperref)                removing `\@ifnextchar' on input line 296.
 
 File: image/navicam.png Graphic file (type bmp)
 <image/navicam.png>
-[17] [18]
+[19]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 275.
+(hyperref)                removing `\@ifnextchar' on input line 303.
 
-[19]
+[20]
 File: image/3d.png Graphic file (type bmp)
 <image/3d.png>
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 294.
+(hyperref)                removing `\@ifnextchar' on input line 322.
 
 File: image/tar.png Graphic file (type bmp)
 <image/tar.png>
+[21]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 302.
+(hyperref)                removing `\@ifnextchar' on input line 330.
 
 File: image/handyar.png Graphic file (type bmp)
 <image/handyar.png>
-[20]
+[22]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 312.
+(hyperref)                removing `\@ifnextchar' on input line 340.
 
 File: image/lee2.png Graphic file (type bmp)
 <image/lee2.png>
 File: image/lee1.png Graphic file (type bmp)
 <image/lee1.png>
-[21] [22]
+[23]
 File: image/realspace.png Graphic file (type bmp)
 <image/realspace.png>
- [23]
+ [24]
 File: image/wrongpic.png Graphic file (type bmp)
 <image/wrongpic.png>
- [24] [25]
+ [25] [26]
 File: image/opticalview.png Graphic file (type bmp)
 <image/opticalview.png>
- [26] [27]
+ [27] [28]
 File: image/tajmahal.png Graphic file (type bmp)
 <image/tajmahal.png>
- [28]
-Overfull \hbox (11.02225pt too wide) in paragraph at lines 417--420
+ [29]
+Overfull \hbox (11.02225pt too wide) in paragraph at lines 445--448
 []\TU/IRNazanin(0)/m/n/12 با پیشرفت فنّاوری درزمینه دستگاه‌های قابل‌حمل، قدرت پ
 ردازشی دستگاه‌های قابل‌حمل برای پردازش تصویرسازی[]
  []
 
 File: image/tango.jpg Graphic file (type bmp)
 <image/tango.jpg>
-[29]
-Overfull \hbox (1.83127pt too wide) in paragraph at lines 428--429
+[30]
+Overfull \hbox (1.83127pt too wide) in paragraph at lines 456--457
 []\TU/IRNazanin(0)/m/n/12 عمومی و کاربردهایی که چندین کاربر دارند مناسب هستند. 
 از نمونه‌های این نوع نمایشگر می‌توان به نمایشگرهای[]
  []
 
-[30]
+[31]
 فصل 3.
-[31
+[32
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 434--447
+Underfull \hbox (badness 10000) in paragraph at lines 462--475
 [][]
  []
 
 File: image/rct.png Graphic file (type bmp)
 <image/rct.png>
-[32] [33] [34]
+[33] [34] [35]
 
-LaTeX Warning: Reference `footdir@203' on page 35 undefined on input line 475.
-
-
-LaTeX Warning: Reference `footdir@204' on page 35 undefined on input line 475.
-
-
-LaTeX Warning: Reference `footdir@206' on page 35 undefined on input line 475.
-
-
-LaTeX Warning: Reference `footdir@207' on page 35 undefined on input line 479.
-
-
-LaTeX Warning: Reference `footdir@208' on page 35 undefined on input line 479.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 502.
 
 File: image/magnetic.png Graphic file (type bmp)
 <image/magnetic.png>
 
-LaTeX Warning: Reference `footdir@209' on page 35 undefined on input line 485.
+LaTeX Warning: Reference `footdir@225' on page 36 undefined on input line 513.
 
 
-LaTeX Warning: Reference `footdir@210' on page 35 undefined on input line 485.
+LaTeX Warning: Reference `footdir@226' on page 36 undefined on input line 513.
 
 
-LaTeX Warning: Reference `footdir@211' on page 35 undefined on input line 485.
+LaTeX Warning: Reference `footdir@228' on page 36 undefined on input line 513.
 
 
-LaTeX Warning: Reference `footdir@212' on page 35 undefined on input line 485.
-
-
-Overfull \hbox (3.87297pt too wide) in paragraph at lines 475--489
+Overfull \hbox (3.87297pt too wide) in paragraph at lines 503--517
 []\TU/IRNazanin(0)/m/n/12 شکل[][][]۳.‏۲[][][] نشان‌دهنده وضوح در ردیابی مغناطیس
 ی دستگاه‌های Polhemus است که تأثیر فاصله بین دریافت‌کننده[]
  []
 
-)
 
-LaTeX Warning: Reference `footdir@213' on page 35 undefined on input line 125.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 517.
 
-[35] [36] (thesis.bbl
+[36] [37]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 525.
+
+File: image/infrared.png Graphic file (type bmp)
+<image/infrared.png>
+[38]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 538.
+
+[39]
+File: image/fiducial.png Graphic file (type bmp)
+<image/fiducial.png>
+File: image/ARtoolkit.png Graphic file (type bmp)
+<image/ARtoolkit.png>
+
+
+LaTeX Warning: Reference `footdir@258' on page 40 undefined on input line 562.
+
+
+LaTeX Warning: Reference `footdir@259' on page 40 undefined on input line 562.
+
+
+LaTeX Warning: Reference `footdir@261' on page 40 undefined on input line 562.
+
+[40]
+File: image/nft.png Graphic file (type bmp)
+<image/nft.png>
+ [41]
+File: image/mbt.png Graphic file (type bmp)
+<image/mbt.png>
+File: image/ptam.jpg Graphic file (type bmp)
+<image/ptam.jpg>
+ [42]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 602.
+
+) [43] [44] (thesis.bbl
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/it' will be
 (Font)              scaled to size 13.79993pt on input line 10.
 
@@ -1473,24 +1544,37 @@ Underfull \hbox (badness 1968) in paragraph at lines 9--12
  virtual mirror new interaction[]
  []
 
-[37
+[45
 
 
-] [38]) [39]
+] [46]
+Underfull \hbox (badness 1152) in paragraph at lines 261--264
+[]\TU/IRNazanin(1)/m/n/12 tems,” in \TU/IRNazanin(1)/m/it/12 Proceedings Virtua
+l Reality Annual International Symposium’95\TU/IRNazanin(1)/m/n/12 , pp.189–196
+,[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--330
+[][]\TU/IRNazanin(1)/m/n/12 “natural-feature-tracking,” [][]$[][][][][] [] [] [
+] [][][][][][][][][][][] [] [][][] [] [][] []$[][]
+ []
+
+[47]) [48]
 Underfull \hbox (badness 10000) in paragraph at lines 143--147
 [][]
  []
 
-[40
+[49
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 152--156
 [][]
  []
 
-[41
+[50
 
-] [42
+] [51
 
 ]
 File: logo.pdf Graphic file (type pdf)
@@ -1510,7 +1594,7 @@ LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/n' will be
 (Font)              scaled to size 19.87189pt on input line 174.
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/bx/n' will be
 (Font)              scaled to size 16.55989pt on input line 174.
-[43]
+[52]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
  (thesis.aux (body.aux))
@@ -1527,12 +1611,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  )
 (\end occurred when \ifx on line 102 was incomplete) 
 Here is how much of TeX's memory you used:
- 25720 strings out of 427669
- 478284 string characters out of 3149215
- 625568 words of memory out of 3000000
- 29413 multiletter control sequences out of 15000+200000
- 542511 words of font info for 110 fonts, out of 3000000 for 9000
+ 25857 strings out of 427669
+ 480274 string characters out of 3149215
+ 626568 words of memory out of 3000000
+ 29541 multiletter control sequences out of 15000+200000
+ 544065 words of font info for 117 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 54i,11n,79p,1316b,581s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,11n,79p,1316b,620s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.pdf (56 pages).
+Output written on thesis.pdf (65 pages).

@@ -255,4 +255,144 @@ M.~Bajura, H.~Fuchs, and R.~Ohbuchi, ``Merging virtual objects with the real
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{bajura1995dynamic}
+M.~Bajura and U.~Neumann, ``Dynamic registration correction in
+  augmented-reality systems,''  in {\em Proceedings Virtual Reality Annual
+  International Symposium'95},  pp.189--196, IEEE, 1995.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ribo2001new}
+M.~Ribo, A.~Pinz, and A.~L. Fuhrmann, ``A new optical tracking system for
+  virtual and augmented reality applications,''  in {\em IMTC 2001. Proceedings
+  of the 18th IEEE Instrumentation and Measurement Technology Conference.
+  Rediscovering Measurement in the Age of Informatics (Cat. No. 01CH 37188)},
+  vol.3,  pp.1932--1936, IEEE, 2001.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{gottschalk1993autocalibration}
+S.~Gottschalk and J.~F. Hughes, ``Autocalibration for virtual environments
+  tracking hardware,''  in {\em Proceedings of the 20th annual conference on
+  Computer graphics and interactive techniques},  pp.65--72, ACM, 1993.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{welch1999hiball}
+G.~Welch, G.~Bishop, L.~Vicci, S.~Brumback, K.~Keller, {\em et~al.}, ``The
+  hiball tracker: High-performance wide-area tracking for virtual and augmented
+  environments,''  in {\em Proceedings of the ACM symposium on Virtual reality
+  software and technology},  pp.1--ff, ACM, 1999.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{cho1998multi}
+Y.~Cho, J.~Lee, and U.~Neumann, ``A multi-ring color fiducial system and an
+  intensity-invariant detection method for scalable fiducial-tracking augmented
+  reality,''  in {\em In IWAR}, Citeseer, 1998.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{comport2006real}
+A.~I. Comport, E.~Marchand, M.~Pressigout, and F.~Chaumette, ``Real-time
+  markerless tracking for augmented reality: the virtual visual servoing
+  framework,'' {\em IEEE Transactions on visualization and computer graphics},
+  vol.12,  no.4,  pp.615--628, 2006.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{alahi2012freak}
+A.~Alahi, R.~Ortiz, and P.~Vandergheynst, ``Freak: Fast retina keypoint,''  in
+  {\em 2012 IEEE Conference on Computer Vision and Pattern Recognition},
+  pp.510--517, Ieee, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{nft}
+``natural-feature-tracking,''
+  \url{https://codefluegel.com/en/beginners-guide-augmented-reality/natural-feature-tracking}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{comport2003real}
+A.~I. Comport, {\'E}.~Marchand, and F.~Chaumette, ``A real-time tracker for
+  markerless augmented reality,''  in {\em Proceedings of the 2nd IEEE/ACM
+  International Symposium on Mixed and Augmented Reality},  p.36, IEEE Computer
+  Society, 2003.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{wuest2005adaptive}
+H.~Wuest, F.~Vial, and D.~Stricker, ``Adaptive line tracking with multiple
+  hypotheses for augmented reality,''  in {\em Proceedings of the 4th IEEE/ACM
+  International Symposium on Mixed and Augmented Reality},  pp.62--69, IEEE
+  Computer Society, 2005.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{vacchetti2003fusing}
+L.~Vacchetti, V.~Lepetit, and P.~Fua, ``Fusing online and offline information
+  for stable 3d tracking in real-time,''  in {\em 2003 IEEE Computer Society
+  Conference on Computer Vision and Pattern Recognition, 2003. Proceedings.},
+  vol.2,  pp.II--241, IEEE, 2003.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{mbt}
+``Model-based-tracking,'' \url{http://www.opentl.org/}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{dissanayake2001solution}
+M.~G. Dissanayake, P.~Newman, S.~Clark, H.~F. Durrant-Whyte, and M.~Csorba, ``A
+  solution to the simultaneous localization and map building (slam) problem,''
+  {\em IEEE Transactions on robotics and automation},  vol.17,  no.3,
+  pp.229--241, 2001.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{davison2007monoslam}
+A.~J. Davison, I.~D. Reid, N.~D. Molton, and O.~Stasse, ``Monoslam: Real-time
+  single camera slam,'' {\em IEEE Transactions on Pattern Analysis \& Machine
+  Intelligence},  no.6,  pp.1052--1067, 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{murORB2}
+R.~Mur-Artal and J.~D. Tard\'os, ``{ORB-SLAM2}: an open-source {SLAM} system
+  for monocular, stereo and {RGB-D} cameras,'' {\em arXiv preprint
+  arXiv:1610.06475}, 2016.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
