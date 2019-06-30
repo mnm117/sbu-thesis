@@ -37,6 +37,10 @@
 \contentsline {subsection}{\numberline {3.4.1}ردیابی مادون قرمز\LTRfootnote {Infrared Tracking}}{38}{subsection.3.4.1}% 
 \contentsline {subsection}{\numberline {3.4.2}ردیابی نور قابل مشاهده\LTRfootnote {Visible Light Tracking}}{39}{subsection.3.4.2}% 
 \contentsline {subsection}{\numberline {3.4.3}ردیابی ساختارهای ۳ بعدی\LTRfootnote {3D Structure Tracking}}{44}{subsection.3.4.3}% 
-\contentsline {chapter}{مراجع}{45}{subsection.3.4.3}% 
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{49}{chapter*.39}% 
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{50}{chapter*.40}% 
+\contentsline {section}{\numberline {3.5}ردیابی درونی\LTRfootnote {Inertial Tracking}}{45}{section.3.5}% 
+\contentsline {section}{\numberline {3.6}ردیابی براساس سیستم موقعیت‌یاب جهانی \LTRfootnote {GPS Tracking}}{46}{section.3.6}% 
+\contentsline {section}{\numberline {3.7}ردیابی ترکیبی \LTRfootnote {Hybrid Tracking}}{46}{section.3.7}% 
+\contentsline {section}{\numberline {3.8}خلاصه}{49}{section.3.8}% 
+\contentsline {chapter}{مراجع}{51}{table.caption.41}% 
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{55}{chapter*.43}% 
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{56}{chapter*.44}% 

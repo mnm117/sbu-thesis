@@ -10,6 +10,10 @@ Repeated entry---line 329 of file thesis.bib
  : @article{comport2006real
  :                         ,
 I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 413 of file thesis.bib
+ : @ARTICLE
+ :         {Vahedi87,
+I'm skipping whatever remains of this entry
 -- ieeetr-fa.bst version 0.6 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 Name 1 in "Nassir Navab, Marco Feuerstein, and Christoph Bichlmeier" has a comma at the end for entry nasir
@@ -42,4 +46,4 @@ Name 1 in "R. Raskar, G. Welch, K.-L. Low, and D. Bandyopadhyay" has a comma at 
 while executing---line 1249 of file ieeetr-fa.bst
 
 Done.
-(There were 16 error messages)
+(There were 17 error messages)

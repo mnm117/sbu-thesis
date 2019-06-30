@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.6.24)  30 JUN 2019 03:15
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.6.24)  30 JUN 2019 19:49
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -949,6 +949,188 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks43
 \verbatim@in@stream=\read2
 )
+("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen177
+\lightrulewidth=\dimen178
+\cmidrulewidth=\dimen179
+\belowrulesep=\dimen180
+\belowbottomsep=\dimen181
+\aboverulesep=\dimen182
+\abovetopsep=\dimen183
+\cmidrulesep=\dimen184
+\cmidrulekern=\dimen185
+\defaultaddspace=\dimen186
+\@cmidla=\count339
+\@cmidlb=\count340
+\@aboverulesep=\dimen187
+\@belowrulesep=\dimen188
+\@thisruleclass=\count341
+\@lastruleclass=\count342
+\@thisrulewidth=\dimen189
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/easy\easytable.sty"
+Document Style `easytable' v1.0 <2001/06/13>.
+("C:\Program Files\MiKTeX 2.9\tex/latex/easy\easy.sty"
+Document Style `easy' v1.1 <2001/05/31>.
+Package: easy 2001/05/31 v1.1
+\@easy@level=\count343
+\@easy@ncol=\count344
+\@easy@nrow=\count345
+\@easy@cnt=\count346
+\@easy@boxviii=\box51
+\@easy@minxviii=\dimen190
+\@easy@minyviii=\dimen191
+\@easy@maxxviii=\dimen192
+\@easy@maxyviii=\dimen193
+\@easy@boxvii=\box52
+\@easy@minxvii=\dimen194
+\@easy@minyvii=\dimen195
+\@easy@maxxvii=\dimen196
+\@easy@maxyvii=\dimen197
+\@easy@boxvi=\box53
+\@easy@minxvi=\dimen198
+\@easy@minyvi=\dimen199
+\@easy@maxxvi=\dimen256
+\@easy@maxyvi=\dimen257
+\@easy@boxv=\box54
+\@easy@minxv=\dimen258
+\@easy@minyv=\dimen259
+\@easy@maxxv=\dimen260
+\@easy@maxyv=\dimen261
+\@easy@boxiv=\box55
+\@easy@minxiv=\dimen262
+\@easy@minyiv=\dimen263
+\@easy@maxxiv=\dimen264
+\@easy@maxyiv=\dimen265
+\@easy@boxiii=\box56
+\@easy@minxiii=\dimen266
+\@easy@minyiii=\dimen267
+\@easy@maxxiii=\dimen268
+\@easy@maxyiii=\dimen269
+\@easy@boxii=\box57
+\@easy@minxii=\dimen270
+\@easy@minyii=\dimen271
+\@easy@maxxii=\dimen272
+\@easy@maxyii=\dimen273
+\@easy@boxi=\box58
+\@easy@minxi=\dimen274
+\@easy@minyi=\dimen275
+\@easy@maxxi=\dimen276
+\@easy@maxyi=\dimen277
+\@easy@hsizexxx=\dimen278
+\@easy@vsizexxx=\dimen279
+\@easy@hsizexxix=\dimen280
+\@easy@vsizexxix=\dimen281
+\@easy@hsizexxviii=\dimen282
+\@easy@vsizexxviii=\dimen283
+\@easy@hsizexxvii=\dimen284
+\@easy@vsizexxvii=\dimen285
+\@easy@hsizexxvi=\dimen286
+\@easy@vsizexxvi=\dimen287
+\@easy@hsizexxv=\dimen288
+\@easy@vsizexxv=\dimen289
+\@easy@hsizexxiv=\dimen290
+\@easy@vsizexxiv=\dimen291
+\@easy@hsizexxiii=\dimen292
+\@easy@vsizexxiii=\dimen293
+\@easy@hsizexxii=\dimen294
+\@easy@vsizexxii=\dimen295
+\@easy@hsizexxi=\dimen296
+\@easy@vsizexxi=\dimen297
+\@easy@hsizexx=\dimen298
+\@easy@vsizexx=\dimen299
+\@easy@hsizexix=\dimen300
+\@easy@vsizexix=\dimen301
+\@easy@hsizexviii=\dimen302
+\@easy@vsizexviii=\dimen303
+\@easy@hsizexvii=\dimen304
+\@easy@vsizexvii=\dimen305
+\@easy@hsizexvi=\dimen306
+\@easy@vsizexvi=\dimen307
+\@easy@hsizexv=\dimen308
+\@easy@vsizexv=\dimen309
+\@easy@hsizexiv=\dimen310
+\@easy@vsizexiv=\dimen311
+\@easy@hsizexiii=\dimen312
+\@easy@vsizexiii=\dimen313
+\@easy@hsizexii=\dimen314
+\@easy@vsizexii=\dimen315
+\@easy@hsizexi=\dimen316
+\@easy@vsizexi=\dimen317
+\@easy@hsizex=\dimen318
+\@easy@vsizex=\dimen319
+\@easy@hsizeix=\dimen320
+\@easy@vsizeix=\dimen321
+\@easy@hsizeviii=\dimen322
+\@easy@vsizeviii=\dimen323
+\@easy@hsizevii=\dimen324
+\@easy@vsizevii=\dimen325
+\@easy@hsizevi=\dimen326
+\@easy@vsizevi=\dimen327
+\@easy@hsizev=\dimen328
+\@easy@vsizev=\dimen329
+\@easy@hsizeiv=\dimen330
+\@easy@vsizeiv=\dimen331
+\@easy@hsizeiii=\dimen332
+\@easy@vsizeiii=\dimen333
+\@easy@hsizeii=\dimen334
+\@easy@vsizeii=\dimen335
+\@easy@hsizei=\dimen336
+\@easy@vsizei=\dimen337
+\@easy@dash@len=\dimen338
+\@easy@dash@sep=\dimen339
+)
+Package: easytable 2001/05/31v1.1
+\@tab@size@rule=\dimen340
+\@tab@size@dash=\dimen341
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/adjustbox\adjustbox.sty"
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/adjustbox\trimclip.sty"
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box59
+)
+\tc@llx=\dimen342
+\tc@lly=\dimen343
+\tc@urx=\dimen344
+\tc@ury=\dimen345
+Package trimclip Info: Using driver 'tc-xetex.def'.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/adjustbox\tc-xetex.def"
+File: tc-xetex.def 2019/01/04 v2.2 Clipping driver for xetex
+))
+\adjbox@Width=\dimen346
+\adjbox@Height=\dimen347
+\adjbox@Depth=\dimen348
+\adjbox@Totalheight=\dimen349
+\adjbox@pwidth=\dimen350
+\adjbox@pheight=\dimen351
+\adjbox@pdepth=\dimen352
+\adjbox@ptotalheight=\dimen353
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count347
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/varwidth\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box60
+\sift@deathcycles=\count348
+\@vwid@loff=\dimen354
+\@vwid@roff=\dimen355
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/realboxes\realboxes.sty"
+Package: realboxes 2011/08/08 v0.2 Change box commands to read there content as
+ real boxes
+)
 
 LaTeX Warning: Unused global option(s):
     [oneside,openany].
@@ -1017,24 +1199,24 @@ LaTeX Warning: Label `fig:ptam' multiply defined.
 ))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1069,37 +1251,37 @@ LaTeX Font Info:    ... okay on input line 11.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box51
-Package hyperref Info: Link coloring OFF on input line 11.
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 15.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count339
+\c@section@level=\count349
 )
-LaTeX Info: Redefining \ref on input line 11.
-LaTeX Info: Redefining \pageref on input line 11.
-LaTeX Info: Redefining \nameref on input line 11.
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 16.55989pt on input line 74.
+(Font)              scaled to size 16.55989pt on input line 78.
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/bx/n' will be
-(Font)              scaled to size 16.55989pt on input line 74.
+(Font)              scaled to size 16.55989pt on input line 78.
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 28.61185pt on input line 74.
+(Font)              scaled to size 28.61185pt on input line 78.
 LaTeX Font Info:    Font shape `TU/IRTitr(0)/m/n' will be
-(Font)              scaled to size 21.32202pt on input line 74.
+(Font)              scaled to size 21.32202pt on input line 78.
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/bx/n' will be
-(Font)              scaled to size 13.79993pt on input line 74.
+(Font)              scaled to size 13.79993pt on input line 78.
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 19.87189pt on input line 74.
+(Font)              scaled to size 19.87189pt on input line 78.
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/bx/n' will be
-(Font)              scaled to size 19.87189pt on input line 74.
+(Font)              scaled to size 19.87189pt on input line 78.
 
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\se-ascii-print.def"
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -1111,41 +1293,41 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 12.59242pt on input line 75.
+(Font)              scaled to size 12.59242pt on input line 79.
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
 [][]
  []
 
-\c@dc=\count340
-LaTeX Font Info:    Try loading font information for U+msa on input line 75.
+\c@dc=\count350
+LaTeX Font Info:    Try loading font information for U+msa on input line 79.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 75.
+LaTeX Font Info:    Try loading font information for U+msb on input line 79.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (25.54721pt too wide) in paragraph at lines 75--75
+Overfull \hbox (25.54721pt too wide) in paragraph at lines 79--79
 [][][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
 [][]
  []
 
 [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
 [][]
  []
 
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/n' will be
-(Font)              scaled to size 13.79993pt on input line 97.
+(Font)              scaled to size 13.79993pt on input line 101.
 [5] [6]
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/bx/n' will be
-(Font)              scaled to size 28.61185pt on input line 115.
+(Font)              scaled to size 28.61185pt on input line 119.
  (thesis.toc
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
 (Font)              scaled to size 9.19995pt on input line 14.
@@ -1244,6 +1426,24 @@ LaTeX Warning: Reference `footdir@27' on page نه undefined on input line 39.
 
 LaTeX Warning: Reference `footdir@28' on page نه undefined on input line 39.
 
+
+LaTeX Warning: Reference `footdir@29' on page نه undefined on input line 40.
+
+
+LaTeX Warning: Reference `footdir@30' on page نه undefined on input line 40.
+
+
+LaTeX Warning: Reference `footdir@31' on page نه undefined on input line 41.
+
+
+LaTeX Warning: Reference `footdir@32' on page نه undefined on input line 41.
+
+
+LaTeX Warning: Reference `footdir@33' on page نه undefined on input line 42.
+
+
+LaTeX Warning: Reference `footdir@34' on page نه undefined on input line 42.
+
 )
 \tf@toc=\write3
 \openout3 = `thesis.toc'.
@@ -1253,20 +1453,26 @@ LaTeX Warning: Reference `footdir@28' on page نه undefined on input line 39.
 
 ]
 
-LaTeX Warning: Reference `footdir@30' on page یازده undefined on input line 25.
+LaTeX Warning: Reference `footdir@36' on page یازده undefined on input line 25.
 
 
 
-LaTeX Warning: Reference `footdir@31' on page یازده undefined on input line 25.
+LaTeX Warning: Reference `footdir@37' on page یازده undefined on input line 25.
 
 
 
-LaTeX Warning: Reference `footdir@32' on page یازده undefined on input line 28.
+LaTeX Warning: Reference `footdir@38' on page یازده undefined on input line 28.
 
 
 
-LaTeX Warning: Reference `footdir@33' on page یازده undefined on input line 28.
+LaTeX Warning: Reference `footdir@39' on page یازده undefined on input line 28.
 
+
+
+Overfull \hbox (10.61668pt too wide) in paragraph at lines 33--33
+ [][][] [][][][]\TU/IRNazanin(0)/m/n/12 pokemon go نمونه‌ای از برنامه‌هایی که د
+رروش ترکیبی از ردیابی بر اساس سیستم موقعیت‌یاب[][][] 
+ []
 
 )
 \tf@lof=\write4
@@ -1477,13 +1683,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 File: image/magnetic.png Graphic file (type bmp)
 <image/magnetic.png>
 
-LaTeX Warning: Reference `footdir@225' on page 36 undefined on input line 513.
+LaTeX Warning: Reference `footdir@231' on page 36 undefined on input line 513.
 
 
-LaTeX Warning: Reference `footdir@226' on page 36 undefined on input line 513.
+LaTeX Warning: Reference `footdir@232' on page 36 undefined on input line 513.
 
 
-LaTeX Warning: Reference `footdir@228' on page 36 undefined on input line 513.
+LaTeX Warning: Reference `footdir@234' on page 36 undefined on input line 513.
 
 
 Overfull \hbox (3.87297pt too wide) in paragraph at lines 503--517
@@ -1514,13 +1720,13 @@ File: image/ARtoolkit.png Graphic file (type bmp)
 <image/ARtoolkit.png>
 
 
-LaTeX Warning: Reference `footdir@258' on page 40 undefined on input line 562.
+LaTeX Warning: Reference `footdir@264' on page 40 undefined on input line 562.
 
 
-LaTeX Warning: Reference `footdir@259' on page 40 undefined on input line 562.
+LaTeX Warning: Reference `footdir@265' on page 40 undefined on input line 562.
 
 
-LaTeX Warning: Reference `footdir@261' on page 40 undefined on input line 562.
+LaTeX Warning: Reference `footdir@267' on page 40 undefined on input line 562.
 
 [40]
 File: image/nft.png Graphic file (type bmp)
@@ -1535,7 +1741,37 @@ File: image/ptam.jpg Graphic file (type bmp)
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 602.
 
-) [43] [44] (thesis.bbl
+File: image/kinect.jpg Graphic file (type bmp)
+<image/kinect.jpg>
+[43] [44]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 613.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 616.
+
+File: image/pokemongo.jpg Graphic file (type bmp)
+<image/pokemongo.jpg>
+[45]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 628.
+
+File: image/hybrid.png Graphic file (type bmp)
+<image/hybrid.png>
+
+Overfull \hbox (0.99573pt too wide) in paragraph at lines 639--646
+[]\TU/IRNazanin(0)/m/n/12 ردیابی ترکیبی به‌دست آمد. بسیاری از این دستگاه‌ها شام
+ل دوربین، شتاب سنج، ژیروسکوپ، سیستم موقعیت‌یاب[]
+ []
+
+[46] [47] [48]
+
+LaTeX Warning: Float too large for page by 62.81708pt on input line 674.
+
+) [49] [50] (thesis.bbl
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/it' will be
 (Font)              scaled to size 13.79993pt on input line 10.
 
@@ -1544,10 +1780,10 @@ Underfull \hbox (badness 1968) in paragraph at lines 9--12
  virtual mirror new interaction[]
  []
 
-[45
+[51
 
 
-] [46]
+] [52]
 Underfull \hbox (badness 1152) in paragraph at lines 261--264
 []\TU/IRNazanin(1)/m/n/12 tems,” in \TU/IRNazanin(1)/m/it/12 Proceedings Virtua
 l Reality Annual International Symposium’95\TU/IRNazanin(1)/m/n/12 , pp.189–196
@@ -1560,46 +1796,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 328--330
 ] [][][][][][][][][][][] [] [][][] [] [][] []$[][]
  []
 
-[47]) [48]
-Underfull \hbox (badness 10000) in paragraph at lines 143--147
+[53]) [54]
+Underfull \hbox (badness 10000) in paragraph at lines 147--151
 [][]
  []
 
-[49
+[55
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 152--156
+Underfull \hbox (badness 10000) in paragraph at lines 156--160
 [][]
  []
 
-[50
+[56
 
-] [51
+] [57
 
 ]
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/n' will be
-(Font)              scaled to size 16.55989pt on input line 174.
+(Font)              scaled to size 16.55989pt on input line 178.
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/bx/n' will be
-(Font)              scaled to size 28.61185pt on input line 174.
+(Font)              scaled to size 28.61185pt on input line 178.
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/bx/n' will be
-(Font)              scaled to size 19.87189pt on input line 174.
+(Font)              scaled to size 19.87189pt on input line 178.
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 174--174
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 178--178
  [][] []\TU/IRNazanin(1)/m/n/14.4 MASTER OF SCIENCE[][] 
  []
 
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/n' will be
-(Font)              scaled to size 19.87189pt on input line 174.
+(Font)              scaled to size 19.87189pt on input line 178.
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/bx/n' will be
-(Font)              scaled to size 16.55989pt on input line 174.
-[52]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+(Font)              scaled to size 16.55989pt on input line 178.
+[58]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
  (thesis.aux (body.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 177.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 177.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 181.
 
 
 LaTeX Warning: There were undefined references.
@@ -1607,16 +1843,16 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  )
 (\end occurred when \ifx on line 102 was incomplete) 
 Here is how much of TeX's memory you used:
- 25857 strings out of 427669
- 480274 string characters out of 3149215
- 626568 words of memory out of 3000000
- 29541 multiletter control sequences out of 15000+200000
+ 27033 strings out of 427669
+ 499114 string characters out of 3149215
+ 645828 words of memory out of 3000000
+ 30682 multiletter control sequences out of 15000+200000
  544065 words of font info for 117 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  54i,11n,79p,1316b,620s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.pdf (65 pages).
+Output written on thesis.pdf (71 pages).

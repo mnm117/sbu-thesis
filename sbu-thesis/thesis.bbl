@@ -395,4 +395,49 @@ R.~Mur-Artal and J.~D. Tard\'os, ``{ORB-SLAM2}: an open-source {SLAM} system
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zhang2012microsoft}
+Z.~Zhang, ``Microsoft kinect sensor and its effect,'' {\em IEEE multimedia},
+  vol.19,  no.2,  pp.4--10, 2012.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{scharstein2003high}
+D.~Scharstein and R.~Szeliski, ``High-accuracy stereo depth maps using
+  structured light,''  in {\em 2003 IEEE Computer Society Conference on
+  Computer Vision and Pattern Recognition, 2003. Proceedings.},  vol.1,
+  pp.I--I, IEEE, 2003.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{gokturk2004time}
+S.~B. Gokturk, H.~Yalcin, and C.~Bamji, ``A time-of-flight depth sensor-system
+  description, issues and solutions,''  in {\em 2004 Conference on Computer
+  Vision and Pattern Recognition Workshop},  pp.35--35, IEEE, 2004.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{izadi2011kinectfusion}
+S.~Izadi, D.~Kim, O.~Hilliges, D.~Molyneaux, R.~Newcombe, P.~Kohli, J.~Shotton,
+  S.~Hodges, D.~Freeman, A.~Davison, {\em et~al.}, ``Kinectfusion: real-time 3d
+  reconstruction and interaction using a moving depth camera,''  in {\em
+  Proceedings of the 24th annual ACM symposium on User interface software and
+  technology},  pp.559--568, ACM, 2011.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{pokemongo}
+``Pokémon go,'' \url{https://www.pokemongo.com/en-us}.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
