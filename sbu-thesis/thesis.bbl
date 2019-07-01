@@ -79,6 +79,14 @@ T.~A. Furness, ``The super cockpit and its human factors challenges,'' {\em
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{gartner}
+``Gartner hype cycle,''
+  \url{https://www.gartner.com/smarterwithgartner/5-trends-emerge-in-gartner-hype-cycle-for-emerging-technologies-2018}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{ismar}
 G.~B. H. B.-L. D. G. F.~W. Kangsoo~Kim, Mark~Billinghurst, ``Revisiting trends
   in augmented reality research: A review of the 2nd decade of ismar
