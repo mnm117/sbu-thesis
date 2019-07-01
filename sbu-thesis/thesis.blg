@@ -6,13 +6,9 @@ Repeated entry---line 124 of file thesis.bib
  : @article{Rekimoto
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 329 of file thesis.bib
+Repeated entry---line 330 of file thesis.bib
  : @article{comport2006real
  :                         ,
-I'm skipping whatever remains of this entry
-"{" immediately follows a field name---line 413 of file thesis.bib
- : @ARTICLE
- :         {Vahedi87,
 I'm skipping whatever remains of this entry
 -- ieeetr-fa.bst version 0.6 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
@@ -22,12 +18,10 @@ Too many commas in name 1 of "Kangsoo Kim, Mark Billinghurst, Gerd Bruder, Henry
 while executing---line 1249 of file ieeetr-fa.bst
 Too many commas in name 1 of "Kangsoo Kim, Mark Billinghurst, Gerd Bruder, Henry Been-Lirn Duh, Gregory F. Welch" for entry ismar
 while executing---line 1249 of file ieeetr-fa.bst
+Warning--empty journal in Bimber
 Name 1 in "Doug A Bowman, Ernst Kruijff, Joseph J. LaViola Jr, and Ivan Poupyrev" has a comma at the end for entry Bowman
 while executing---line 1249 of file ieeetr-fa.bst
-Name 1 in "Hirokazu Kato, Mark Billinghurst, Ivan Poupyrev, Kenji Imamoto, and Keihachiro Tachibana" has a comma at the end for entry Kato
-while executing---line 1249 of file ieeetr-fa.bst
-Too many commas in name 1 of "Hirokazu Kato, Mark Billinghurst, Ivan Poupyrev, Kenji Imamoto, and Keihachiro Tachibana" for entry Kato
-while executing---line 1249 of file ieeetr-fa.bst
+Warning--empty journal in Kato
 Name 1 in "Jae Yeol Lee, Gue Won Rhee, and Dong Woo Seo" has a comma at the end for entry Lee
 while executing---line 1249 of file ieeetr-fa.bst
 Name 1 in "Minkyung Lee, Mark Billinghurst, Woonhyuk Baek, Richard Green, and Woontack Woo" has a comma at the end for entry Lee2
@@ -46,4 +40,4 @@ Name 1 in "R. Raskar, G. Welch, K.-L. Low, and D. Bandyopadhyay" has a comma at 
 while executing---line 1249 of file ieeetr-fa.bst
 
 Done.
-(There were 17 error messages)
+(There were 14 error messages)

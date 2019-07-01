@@ -14,9 +14,11 @@ M.~F. Nassir~Navab and C.~Bichlmeier, ``Laparoscopic virtual mirror new
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{Piekarski}
-W.~Piekarski and B.~Thomas, ``Arquake: the outdoor augmented reality gaming
-  system,'' {\em Communications of the ACM},  vol.45(1),  p.36–38, 2002.
+\bibitem{serino2016pokemon}
+M.~Serino, K.~Cordrey, L.~McLaughlin, and R.~L. Milanaik, ``Pok{\'e}mon go and
+  augmented virtual reality games: a cautionary commentary for parents and
+  pediatricians,'' {\em Current opinion in pediatrics},  vol.28,  no.5,
+  pp.673--677, 2016.
 
 \end{LTRbibitems}
 
@@ -115,17 +117,17 @@ P.~Milgram and F.~Kishino, ``taxonomy of mixed reality visual displays,'' {\em
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Julie}
-J.~C. . B. F. . M. A. . P. C. . E. D. .~M. Ivkovic, ``Augmented reality
-  technologies, systems and applications,'' {\em Springer Science+Business
-  Media},  pp.346--350, 2011.
+R.~Palmarini, J.~A. Erkoyuncu, R.~Roy, and H.~Torabmostaedi, ``A systematic
+  review of augmented reality applications in maintenance,'' {\em Robotics and
+  Computer-Integrated Manufacturing},  vol.49,  pp.215--228, 2018.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Bimber}
-M.~I. O~Bimber, R~Raskar, ``Spatial augmented reality,'' {\em SIGGRAPH 2007},
-  2007.
+M.~P. Ruffner, Y.~Yu, and D.~L. Lau, ``Structured light smart camera for
+  spatial augmented reality applications,''  vol.10932,  p.109320J, 2019.
 
 \end{LTRbibitems}
 
@@ -140,10 +142,9 @@ J.~J. L.~J. Doug A~Bowman, Ernst~Kruijff and I.~Poupyrev, ``3d user interfaces:
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Kato}
-I.~P. K.~I. Hirokazu~Kato, Mark~Billinghurst and K.~Tachibana, ``Virtual object
-  manipulation on a table-top ar environment,'' {\em Augmented Reality,
-  2000.(ISAR 2000). Proceedings. IEEE and ACM International Symposium},
-  p.111–119, 2000.
+T.~Moser, M.~Hohlagschwandtner, G.~Kormann-Hainzl, S.~P{\"o}lzlbauer, and
+  J.~Wolfartsberger, ``Mixed reality applications in industry: Challenges and
+  research areas,''  pp.95--105, 2019.
 
 \end{LTRbibitems}
 

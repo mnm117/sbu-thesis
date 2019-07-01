@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {1.3}واقعیت افزوده چیست؟}{3}{section.1.3}% 
 \contentsline {section}{\numberline {1.4}تاریخچه}{4}{section.1.4}% 
 \contentsline {section}{\numberline {1.5}انگیزه پژوهش}{6}{section.1.5}% 
-\contentsline {section}{\numberline {1.6}بیان ساختار فصل‌های بعدی}{8}{section.1.6}% 
+\contentsline {section}{\numberline {1.6}بیان ساختار فصل‌های بعدی}{10}{section.1.6}% 
 \contentsline {chapter}{\numberline {2}ادبیات تحقیق}{11}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}مقدمه}{12}{section.2.1}% 
 \contentsline {section}{\numberline {2.2}معرفی}{12}{section.2.2}% 
@@ -17,30 +17,30 @@
 \contentsline {section}{\numberline {2.4}ورودی و تعامل}{19}{section.2.4}% 
 \contentsline {subsection}{\numberline {2.4.1}مرورگرهای اطلاعات\LTRfootnote {Information Browsers}: }{20}{subsection.2.4.1}% 
 \contentsline {subsection}{\numberline {2.4.2}رابط کاربر ۳ بعدی\LTRfootnote {3D User Interfaces}:}{20}{subsection.2.4.2}% 
-\contentsline {subsection}{\numberline {2.4.3}رابط کاربر قابل‌ لمس\LTRfootnote {Tangible User Interfaces} :}{21}{subsection.2.4.3}% 
+\contentsline {subsection}{\numberline {2.4.3}رابط کاربر قابل‌ لمس\LTRfootnote {Tangible User Interfaces} :}{22}{subsection.2.4.3}% 
 \contentsline {subsection}{\numberline {2.4.4}رابط کاربر طبیعی \LTRfootnote {Natural User Interfaces} :}{22}{subsection.2.4.4}% 
 \contentsline {subsection}{\numberline {2.4.5}رابط چند منظوره\LTRfootnote {Multimodal Interfaces} :}{23}{subsection.2.4.5}% 
-\contentsline {section}{\numberline {2.5}نمایش}{23}{section.2.5}% 
+\contentsline {section}{\numberline {2.5}نمایش}{24}{section.2.5}% 
 \contentsline {subsection}{\numberline {2.5.1}فناوری نمایش}{25}{subsection.2.5.1}% 
-\contentsline {subsubsection}{ویدیوئی}{25}{subsubsection*.20}% 
+\contentsline {subsubsection}{ویدیوئی}{26}{subsubsection*.20}% 
 \contentsline {subsubsection}{نمایش دید نوری واقعیت افزوده}{27}{subsubsection*.22}% 
 \contentsline {subsubsection}{نمایش مبتنی بر نورپردازی}{29}{subsubsection*.24}% 
-\contentsline {subsection}{\numberline {2.5.2}فاصله قرار گیری نمایشگر}{30}{subsection.2.5.2}% 
-\contentsline {subsubsection}{نمایشگر متصل به سر}{30}{subsubsection*.26}% 
-\contentsline {subsubsection}{نمایشگر دستی و یا متصل به بدن}{30}{subsubsection*.27}% 
+\contentsline {subsection}{\numberline {2.5.2}فاصله قرار گیری نمایشگر}{29}{subsection.2.5.2}% 
+\contentsline {subsubsection}{نمایشگر متصل به سر}{31}{subsubsection*.26}% 
+\contentsline {subsubsection}{نمایشگر دستی و یا متصل به بدن}{31}{subsubsection*.27}% 
 \contentsline {subsubsection}{نمایشگر فاصلهای}{31}{subsubsection*.29}% 
-\contentsline {chapter}{\numberline {3}کارهای مرتبط}{32}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}معرفی فصل}{33}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}رندرینگ به چه معنا است؟}{33}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}ردیابی مغناطیسی\LTRfootnote {Magnetic Tracking}}{36}{section.3.3}% 
+\contentsline {chapter}{\numberline {3}کارهای مرتبط}{33}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}معرفی فصل}{34}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}رندرینگ به چه معنا است؟}{34}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}ردیابی مغناطیسی\LTRfootnote {Magnetic Tracking}}{37}{section.3.3}% 
 \contentsline {section}{\numberline {3.4}ردیابی براساس دید\LTRfootnote {Vision Based Tracking}}{38}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}ردیابی مادون قرمز\LTRfootnote {Infrared Tracking}}{38}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3.4.2}ردیابی نور قابل مشاهده\LTRfootnote {Visible Light Tracking}}{39}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.1}ردیابی مادون قرمز\LTRfootnote {Infrared Tracking}}{39}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}ردیابی نور قابل مشاهده\LTRfootnote {Visible Light Tracking}}{40}{subsection.3.4.2}% 
 \contentsline {subsection}{\numberline {3.4.3}ردیابی ساختارهای ۳ بعدی\LTRfootnote {3D Structure Tracking}}{44}{subsection.3.4.3}% 
-\contentsline {section}{\numberline {3.5}ردیابی درونی\LTRfootnote {Inertial Tracking}}{45}{section.3.5}% 
-\contentsline {section}{\numberline {3.6}ردیابی براساس سیستم موقعیت‌یاب جهانی \LTRfootnote {GPS Tracking}}{46}{section.3.6}% 
-\contentsline {section}{\numberline {3.7}ردیابی ترکیبی \LTRfootnote {Hybrid Tracking}}{46}{section.3.7}% 
-\contentsline {section}{\numberline {3.8}خلاصه}{49}{section.3.8}% 
-\contentsline {chapter}{مراجع}{51}{table.caption.41}% 
-\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{55}{chapter*.43}% 
-\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{56}{chapter*.44}% 
+\contentsline {section}{\numberline {3.5}ردیابی درونی\LTRfootnote {Inertial Tracking}}{46}{section.3.5}% 
+\contentsline {section}{\numberline {3.6}ردیابی براساس سیستم موقعیت‌یاب جهانی \LTRfootnote {GPS Tracking}}{47}{section.3.6}% 
+\contentsline {section}{\numberline {3.7}ردیابی ترکیبی \LTRfootnote {Hybrid Tracking}}{47}{section.3.7}% 
+\contentsline {section}{\numberline {3.8}خلاصه}{50}{section.3.8}% 
+\contentsline {chapter}{مراجع}{52}{table.caption.42}% 
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{56}{chapter*.44}% 
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{57}{chapter*.45}% 
