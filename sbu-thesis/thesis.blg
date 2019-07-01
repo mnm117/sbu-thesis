@@ -6,10 +6,6 @@ Repeated entry---line 124 of file thesis.bib
  : @article{Rekimoto
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 330 of file thesis.bib
- : @article{comport2006real
- :                         ,
-I'm skipping whatever remains of this entry
 -- ieeetr-fa.bst version 0.6 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 Name 1 in "Nassir Navab, Marco Feuerstein, and Christoph Bichlmeier" has a comma at the end for entry nasir
@@ -30,14 +26,10 @@ Too many commas in name 1 of "Minkyung Lee, Mark Billinghurst, Woonhyuk Baek, Ri
 while executing---line 1249 of file ieeetr-fa.bst
 Name 1 in "M. Billinghurst, A. Clark, and G. Lee" has a comma at the end for entry Billinghurst
 while executing---line 1249 of file ieeetr-fa.bst
-Name 1 in "Y. Tian, Y. Long, D. Xia, H. Yao, and J. Zhang" has a comma at the end for entry Tian
-while executing---line 1249 of file ieeetr-fa.bst
-Too many commas in name 1 of "Y. Tian, Y. Long, D. Xia, H. Yao, and J. Zhang" for entry Tian
-while executing---line 1249 of file ieeetr-fa.bst
+Warning--empty journal in Tian
 Name 1 in "K. Kiyokawa, Y. Kurata, and H. Ohno" has a comma at the end for entry Kiyokawa
 while executing---line 1249 of file ieeetr-fa.bst
-Name 1 in "R. Raskar, G. Welch, K.-L. Low, and D. Bandyopadhyay" has a comma at the end for entry Raskar
-while executing---line 1249 of file ieeetr-fa.bst
+Warning--empty journal in ribeiro2019augmented
 
 Done.
-(There were 14 error messages)
+(There were 10 error messages)

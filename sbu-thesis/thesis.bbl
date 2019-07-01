@@ -179,9 +179,8 @@ A.~C. M.~Billinghurst and G.~Lee, ``A survey of augmented reality,'' {\em
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Tian}
-D.~X. H.~Y. Y.~Tian, Y.~Long and J.~Zhang, ``Handling occlusions in augmented
-  reality based on 3d reconstruction method,'' {\em Neurocomputing},  vol.156,
-  p.96–104, 2015.
+J.~Bai, G.-Y. Nie, W.~Song, Y.~Liu, and Y.~Wang, ``Study of 3d target
+  replacement in ar based on target tracking,''  pp.1--6, 2019.
 
 \end{LTRbibitems}
 
@@ -197,9 +196,10 @@ Y.~K. K.~Kiyokawa and H.~Ohno, ``An optical see-through display for mutual
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Raskar}
-K.-L.~L. R.~Raskar, G.~Welch and D.~Bandyopadhyay, ``Shader lamps: Animating
-  real objects with image-based illumination,'' {\em S. J. Gortler and K.
-  Myszkowski, Eds. Vienna: Springer Vienna},  p.89–102, 2001.
+C.~Portal{\'e}s, J.~M. Ordu{\~n}a, P.~Morillo, and J.~Gimeno, ``An efficient
+  projector calibration method for projecting virtual reality on cylindrical
+  surfaces,'' {\em Multimedia Tools and Applications},  vol.78,  no.2,
+  pp.1457--1471, 2019.
 
 \end{LTRbibitems}
 
@@ -231,28 +231,34 @@ S.~Siltanen.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{caudell1992augmented}
-T.~P. Caudell and D.~W. Mizell, ``Augmented reality: An application of heads-up
-  display technology to manual manufacturing processes,''  in {\em Proceedings
-  of the twenty-fifth Hawaii international conference on system sciences},
-  vol.2,  pp.659--669, IEEE, 1992.
+\bibitem{lhachemi2019augmented}
+H.~Lhachemi, A.~Malik, and R.~Shorten, ``Augmented reality, cyber-physical
+  systems, and feedback control for additive manufacturing: A review,'' {\em
+  arXiv preprint arXiv:1903.01808}, 2019.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{feiner1993knowledge}
-S.~Feiner, B.~Macintyre, and D.~Seligmann, ``Knowledge-based augmented
-  reality,'' {\em Communications of the ACM},  vol.36,  no.7,  pp.53--62, 1993.
+\bibitem{Polhemus}
+``Polhemus,'' \url{https://polhemus.com}.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{bajura1992merging}
-M.~Bajura, H.~Fuchs, and R.~Ohbuchi, ``Merging virtual objects with the real
-  world: Seeing ultrasound imagery within the patient,'' {\em ACM SIGGRAPH
-  Computer Graphics},  vol.26,  no.2,  pp.203--210, 1992.
+\bibitem{siew2019practical}
+C.~Siew, S.~Ong, and A.~Nee, ``A practical augmented reality-assisted
+  maintenance system framework for adaptive user support,'' {\em Robotics and
+  Computer-Integrated Manufacturing},  vol.59,  pp.115--129, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ribeiro2019augmented}
+J.~M.~T. Ribeiro, J.~Martins, and R.~Garcia, ``Augmented reality technology as
+  a tool for better usability of medical equipment,''  pp.341--345, 2019.
 
 \end{LTRbibitems}
 
@@ -297,29 +303,37 @@ G.~Welch, G.~Bishop, L.~Vicci, S.~Brumback, K.~Keller, {\em et~al.}, ``The
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{cho1998multi}
-Y.~Cho, J.~Lee, and U.~Neumann, ``A multi-ring color fiducial system and an
-  intensity-invariant detection method for scalable fiducial-tracking augmented
-  reality,''  in {\em In IWAR}, Citeseer, 1998.
+\bibitem{basiratzadeh2019fiducial}
+S.~Basiratzadeh, E.~D. Lemaire, M.~Dorrikhteh, and N.~Baddour, ``Fiducial
+  marker approach for biomechanical smartphone-based measurements,''  in {\em
+  2019 3rd International Conference on Bio-engineering for Smart Technologies
+  (BioSMART)},  pp.1--4, IEEE, 2019.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{comport2006real}
-A.~I. Comport, E.~Marchand, M.~Pressigout, and F.~Chaumette, ``Real-time
-  markerless tracking for augmented reality: the virtual visual servoing
-  framework,'' {\em IEEE Transactions on visualization and computer graphics},
-  vol.12,  no.4,  pp.615--628, 2006.
+\bibitem{ma2019projected}
+S.~Ma, Q.~Liu, M.~Fan, and P.~Sheu, ``Projected visible light for 3d finger
+  tracking and device augmentation on everyday objects,'' {\em Internet of
+  Things}, 2019.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{alahi2012freak}
-A.~Alahi, R.~Ortiz, and P.~Vandergheynst, ``Freak: Fast retina keypoint,''  in
-  {\em 2012 IEEE Conference on Computer Vision and Pattern Recognition},
-  pp.510--517, Ieee, 2012.
+\bibitem{fiducial}
+``fiducial augmented reality,''
+  \url{https://medium.com/deemaze-software/augmented-reality-a-simple-technical-introduction-83d5e77206b9}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{gottl2018efficient}
+F.~G{\"o}ttl, P.~Gagel, and J.~Grubert, ``Efficient pose tracking from natural
+  features in standard web browsers,'' {\em arXiv preprint arXiv:1804.08424},
+  2018.
 
 \end{LTRbibitems}
 
@@ -343,11 +357,10 @@ A.~I. Comport, {\'E}.~Marchand, and F.~Chaumette, ``A real-time tracker for
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{wuest2005adaptive}
-H.~Wuest, F.~Vial, and D.~Stricker, ``Adaptive line tracking with multiple
-  hypotheses for augmented reality,''  in {\em Proceedings of the 4th IEEE/ACM
-  International Symposium on Mixed and Augmented Reality},  pp.62--69, IEEE
-  Computer Society, 2005.
+\bibitem{zubizarreta2019framework}
+J.~Zubizarreta, I.~Aguinaga, and A.~Amundarain, ``A framework for augmented
+  reality guidance in industry,'' {\em The International Journal of Advanced
+  Manufacturing Technology},  pp.1--14, 2019.
 
 \end{LTRbibitems}
 
@@ -436,8 +449,49 @@ S.~Izadi, D.~Kim, O.~Hilliges, D.~Molyneaux, R.~Newcombe, P.~Kohli, J.~Shotton,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{rajeev2019augmented}
+S.~Rajeev, Q.~Wan, K.~Yau, K.~Panetta, and S.~S. Agaian, ``Augmented
+  reality-based vision-aid indoor navigation system in gps denied
+  environment,''  in {\em Mobile Multimedia/Image Processing, Security, and
+  Applications 2019},  vol.10993,  p.109930P, International Society for Optics
+  and Photonics, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{pokemongo}
 ``Pokémon go,'' \url{https://www.pokemongo.com/en-us}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{isham2018framework}
+M.~I.~M. Isham, F.~Mohamed, C.~V. Siang, Y.~A. Yusoff, A.~A.~A. Aziz, and
+  D.~E.~O. Dewi, ``A framework of ultrasounds image slice positioning and
+  orientation in 3d augmented reality environment using hybrid tracking
+  method,''  in {\em 2018 IEEE Conference on Big Data and Analytics (ICBDA)},
+  pp.105--110, IEEE, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{you1999orientation}
+S.~You, U.~Neumann, and R.~Azuma, ``Orientation tracking for outdoor augmented
+  reality registration,'' {\em IEEE Computer Graphics and Applications},
+  vol.19,  no.6,  pp.36--42, 1999.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{duan2018augmented}
+G.~Duan, M.~Han, W.~Zhao, T.~Dong, and T.~Xu, ``Augmented reality technology
+  and its game application research,''  in {\em 2018 3rd International
+  Conference on Automation, Mechanical Control and Computational Engineering
+  (AMCCE 2018)}, Atlantis Press, 2018.
 
 \end{LTRbibitems}
 

@@ -14,8 +14,8 @@
 \contentsline {figure}{\numberline {2.7}{\ignorespaces استفاده از رابط کاربر ۳ بعدی \cite {Bowman}\relax }}{21}{figure.caption.15}% 
 \contentsline {figure}{\numberline {2.8}{\ignorespaces استفاده از رابط کاربر قابل لمس \cite {Kato}\relax }}{22}{figure.caption.16}% 
 \contentsline {figure}{\numberline {2.9}{\ignorespaces استفاده از رابط کاربر طبیعی \cite {Lee}\relax }}{23}{figure.caption.17}% 
-\contentsline {figure}{\numberline {2.10}{\ignorespaces رابط چند منظوره\cite {Lee2}\relax }}{23}{figure.caption.18}% 
-\contentsline {figure}{\numberline {2.11}{\ignorespaces منطبق کردن پارامترهای داخلی و خارجی \cite {Billinghurst}\relax }}{24}{figure.caption.19}% 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces رابط چند منظوره\cite {Lee2}\relax }}{24}{figure.caption.18}% 
+\contentsline {figure}{\numberline {2.11}{\ignorespaces منطبق کردن پارامترهای داخلی و خارجی \cite {Billinghurst}\relax }}{25}{figure.caption.19}% 
 \contentsline {figure}{\numberline {2.12}{\ignorespaces اضافه شدن اشتباه در شکل سمت چپ و تصحیح آن در سمت راست \cite {Tian}\relax }}{27}{figure.caption.21}% 
 \contentsline {figure}{\numberline {2.13}{\ignorespaces نمایش دید نوری \cite {Billinghurst}\relax }}{28}{figure.caption.23}% 
 \contentsline {figure}{\numberline {2.14}{\ignorespaces نمایش دید نوری \cite {Mistry}\relax }}{30}{figure.caption.25}% 
@@ -23,13 +23,14 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces درخت موضوعی مربوط به واقعیت افزوده\relax }}{35}{figure.caption.30}% 
 \contentsline {figure}{\numberline {3.2}{\ignorespaces ارتباط ثبت، ردیابی و کالیبراسیون\cite {siltanen2012theory}\relax }}{36}{figure.caption.31}% 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces ارتباط فاصله با وضوح محاسبات در ردیابی مغناطیسی\LTRfootnote {https://polhemus.com}\relax }}{38}{figure.caption.32}% 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces چپ: شمایی نمادین از نگاه کردن درون از بیرون-وسط: ال‌ئی‌دی های نصب شده بر روی سقف-راست: ردیاب دوربین\cite {welch1999hiball}\relax }}{40}{figure.caption.33}% 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces چپ:نشانه های رنگی ثابت-راست: استفاده از چند حلقه به ثابت‌ها\cite {cho1998multi}\relax }}{41}{figure.caption.34}% 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces نمونه‌های مختلف ثابت‌های استفاده‌شده \LTRfootnote {www.semanticscholar.org}\relax }}{42}{figure.caption.35}% 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces نمونه‌ای از ردیابی بر اساس ویژگی‌های طبیعی \cite {nft}\relax }}{43}{figure.caption.36}% 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces نمونه‌ای از ردیابی بر اساس مدل توسط شرکت OpenTL \cite {mbt}\relax }}{44}{figure.caption.37}% 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces نمونه‌ای از روش PTAM \cite {murORB2}\relax }}{45}{figure.caption.38}% 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces نمونه‌ای از ردیابی ساختارهای ۳ بعدی توسط کینکت ماکروسافت \cite {izadi2011kinectfusion}\relax }}{46}{figure.caption.39}% 
-\contentsline {figure}{\numberline {3.11}{\ignorespaces pokemon go نمونه‌ای از برنامه‌هایی که درروش ترکیبی از ردیابی بر اساس سیستم موقعیت‌یاب جهانی استفاده کرده است \cite {pokemongo}\relax }}{48}{figure.caption.40}% 
-\contentsline {figure}{\numberline {3.12}{\ignorespaces مقایسه سیستم ترکیبی\cite {pokemongo}\relax }}{49}{figure.caption.41}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces ارتباط فاصله با وضوح محاسبات در ردیابی مغناطیسی\cite {Polhemus}\relax }}{39}{figure.caption.32}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces چپ: شمایی نمادین از نگاه کردن درون از بیرون-وسط: ال‌ئی‌دی های نصب شده بر روی سقف-راست: ردیاب دوربین\cite {welch1999hiball}\relax }}{41}{figure.caption.33}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces چپ:نشانه های رنگی ثابت-راست: استفاده از چند حلقه به ثابت‌ها\cite {basiratzadeh2019fiducial}\relax }}{42}{figure.caption.35}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces نمونه‌های مختلف ثابت‌های استفاده‌شده \cite {fiducial}\relax }}{43}{figure.caption.36}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces نمونه‌ای از ردیابی بر اساس ویژگی‌های طبیعی \cite {nft}\relax }}{44}{figure.caption.38}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces نمونه‌ای از ردیابی بر اساس مدل توسط شرکت OpenTL \cite {mbt}\relax }}{45}{figure.caption.40}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces نمونه‌ای از روش PTAM \cite {murORB2}\relax }}{46}{figure.caption.41}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces نمونه‌ای از ردیابی ساختارهای ۳ بعدی توسط کینکت ماکروسافت \cite {izadi2011kinectfusion}\relax }}{47}{figure.caption.42}% 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces پوکمون گو نمونه‌ای از برنامه‌هایی که درروش ترکیبی از ردیابی بر اساس سیستم موقعیت‌یاب جهانی استفاده کرده است \cite {pokemongo}\relax }}{49}{figure.caption.43}% 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces مقایسه سیستم ترکیبی\cite {you1999orientation}\relax }}{50}{figure.caption.44}% 
+\addvspace {10\p@ }
