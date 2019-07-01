@@ -35,7 +35,7 @@
 \contentsline {subsubsection}{ردیابی ثابت}{40}{subsubsection*.30}% 
 \contentsline {subsubsection}{ردیابی ویژگی‌های طبیعی}{42}{subsubsection*.33}% 
 \contentsline {subsubsection}{ردیابی براساس مدل}{43}{subsubsection*.35}% 
-\contentsline {subsection}{\numberline {3.3.3}}{44}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.3}ردیابی ساختارهای ۳ بعدی}{44}{subsection.3.3.3}% 
 \contentsline {section}{\numberline {3.4}ردیابی درونی}{46}{section.3.4}% 
 \contentsline {section}{\numberline {3.5}ردیابی براساس سیستم موقعیت‌یاب جهانی}{46}{section.3.5}% 
 \contentsline {section}{\numberline {3.6}ردیابی ترکیبی}{48}{section.3.6}% 
