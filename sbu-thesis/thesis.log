@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.6.24)  2 JUL 2019 02:25
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.6.24)  2 JUL 2019 09:44
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1476,14 +1476,15 @@ Overfull \hbox (0.99573pt too wide) in paragraph at lines 659--660
 ل دوربین، شتاب سنج، ژیروسکوپ، سیستم موقعیت‌یاب[]
  []
 
+[49]
+فصل 4.
+[50
+
+]
 
 LaTeX Warning: Float too large for page by 32.07657pt on input line 688.
 
-[49] [50]
-فصل 4.
-[51
-
-]) [52] (thesis.bbl
+) [51] [52] (thesis.bbl
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/m/it' will be
 (Font)              scaled to size 13.79993pt on input line 10.
 
@@ -1549,7 +1550,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
 Here is how much of TeX's memory you used:
  27058 strings out of 427669
  499225 string characters out of 3149215
- 643828 words of memory out of 3000000
+ 642828 words of memory out of 3000000
  30713 multiletter control sequences out of 15000+200000
  539386 words of font info for 94 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191

@@ -40,5 +40,5 @@
 \contentsline {section}{\numberline {3.5}ردیابی براساس سیستم موقعیت‌یاب جهانی}{46}{section.3.5}% 
 \contentsline {section}{\numberline {3.6}ردیابی ترکیبی}{48}{section.3.6}% 
 \contentsline {section}{\numberline {3.7}خلاصه}{49}{section.3.7}% 
-\contentsline {chapter}{\numberline {4}نتیجه گیری و کارهای آینده}{51}{chapter.4}% 
-\contentsline {chapter}{مراجع}{53}{chapter.4}% 
+\contentsline {chapter}{\numberline {4}نتیجه گیری و کارهای آینده}{50}{chapter.4}% 
+\contentsline {chapter}{مراجع}{53}{table.caption.41}% 
